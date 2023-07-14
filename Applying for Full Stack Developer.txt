@@ -1,0 +1,13 @@
+Applying for Full Stack Developer job
+Grow Global Strategies Private Limited
+
+Assignment: 
+For this assignment, we would like you to develop a simple web application. 
+
+Task: Build a web application using REACT.JS for the frontend and NODE.JS for the backend. 
+
+Application Features: 1. The application should have a user registration and login system (with validation). 
+				2. Users should be able to create, read, update, and delete posts once they log in. 
+
+Submission: Please submit your completed assignment by pushing your code to a GitHub repository and sharing the link with us.
+		   Make sure to include a README file detailing your thought process and explaining how to run the project locally.
