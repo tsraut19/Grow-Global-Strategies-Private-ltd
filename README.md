@@ -4,6 +4,12 @@
 3)after starting a server start a react application by running a command (npm start). It will be on port number 9800.
 4)then on browser localhost://3000, application will be available.
 
+# INCLUDED LIBRARIES
+1) React.JS having components like login, register, productlist, addproduct.
+2) Axios for connecting frontend and server.
+3) Node.JS for server side scripting.
+4) Express server.
+5) MySQL database.
 
 # Getting Started with Create React App
 
