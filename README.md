@@ -1,3 +1,7 @@
+# HOW TO START WEB APPLICATION
+1)download node modules by command (npm init) in src folder and in Server folder.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
